@@ -7,7 +7,7 @@ About Me
 
 💡 Interests: Data Visualization, Business Intelligence, Data Cleaning, ETL (Extract, Transform, Load), SQL and Databases
 
-🌱 Currently Learning: Data Analysis Bootcamp 2.0 From COdebasics
+🌱 Currently Learning: Data Analysis Bootcamp 2.0 From Codebasics
 
 Skills
 
